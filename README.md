@@ -3,15 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
  - [ALX Projects](https://github.com/joshmadakor1/Algorithms-Practice)
- - [Hello World](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2> Certifications </h2>
-
-- [Degree and Certificates](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-<h2> Popular YouTube Videos </h2>
-
-[Degree and Certificates](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
